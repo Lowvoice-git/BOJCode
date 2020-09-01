@@ -1,5 +1,6 @@
 # BEAKJOON CODE STORE
 * * *
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=worldi77)](https://solved.ac/worldi77)
 ### EX GRAPH
 ![EX_GRAPH](./image/graph.PNG)
 ### PROBLEM'S CLASS GRAPH
